@@ -8,8 +8,11 @@ public class VendingMachinesQU {
 		// TODO Auto-generated method stub
 		
 		Scanner input = new Scanner(System.in);
-		
+		String [] snacks = {"oreos","cheeseits","popTarts"};
 
+		
+		
+		
 	}
 
 }
